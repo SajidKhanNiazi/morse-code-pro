@@ -53,6 +53,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://morsecodeacademy.com",
   },
+  verification: {
+    google: "google83c1f76b5581dae8",
+  },
 };
 
 export const viewport: Viewport = {
